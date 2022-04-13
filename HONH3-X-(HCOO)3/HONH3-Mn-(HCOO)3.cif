@@ -4,7 +4,7 @@
 #----------------------------------------------------------------------
 data_VESTA_phase_1
 
-_chemical_name_common                  'crystal                               '
+_chemical_name_common                  'HONH3-Mn-(HCOO)3                               '
 _cell_length_a                         7.799051
 _cell_length_b                         8.039114
 _cell_length_c                         13.058002
