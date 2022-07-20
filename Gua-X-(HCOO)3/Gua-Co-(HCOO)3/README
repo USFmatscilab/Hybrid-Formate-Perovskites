@@ -1,1 +1,4 @@
-
+# Files Description
+Experimental-structures contain .cif files from experimental data
+Relaxed structures contained ground state structures from VASP relaxation with PBE+D3
+OUTCAR contains Polarization, piezoelectric coefficients, dielectric coefficients, elastic constants.
