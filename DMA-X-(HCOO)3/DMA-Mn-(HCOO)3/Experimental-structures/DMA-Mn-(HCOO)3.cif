@@ -1,0 +1,374 @@
+data_Mn(CHOO)3NH2(CH3)2
+_chemical_formula_sum	'C5 H11 Mn N O6'
+_chemical_formula_weight	236.090
+_refine_ls_R_factor_all	0.048
+_cell_length_a	14.345(2)
+_cell_length_b	 8.3232(13)
+_cell_length_c	 8.8793(14)
+_cell_angle_alpha	90.000
+_cell_angle_beta	120.694(2)
+_cell_angle_gamma	90.000
+_cell_volume	911.6(2)
+_cell_formula_units_Z	4
+_symmetry_int_tables_number	9
+_symmetry_space_group_name_H-M	'C 1 c 1'
+_symmetry_space_group_name_Hall	'C_-2yc'
+
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,-y,1/2+z
+3 1/2+x,1/2+y,z
+4 1/2+x,1/2-y,1/2+z
+
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+_atom_type_radius_bond
+O	?	1.200
+C	?	1.200
+H	?	1.200
+N	?	1.200
+Mn	?	1.200
+
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_attached_hydrogens
+_atom_site_calc_flag
+_atom_site_thermal_displace_type
+_atom_site_u_iso_or_equiv
+O1 O  0.2340(2)  0.3565(4)  0.0618(4)  1.000 4 a ? d Uani  0.0147(8)
+C1 C  0.3242(7)  0.2881(3)  0.1471(11)  1.000 4 a ? d Uani  0.0141(6)
+H1 H  0.3248  0.1764  0.1480  1.000 4 a ? calc Uiso  0.01700
+C2 C  0.0502(4)  0.5281(6) -0.3491(7)  1.000 4 a ? d Uani  0.0116(10)
+H2 H  0.0975  0.4655 -0.3668  1.000 4 a ? calc Uiso  0.01400
+C3 C  0.1117(4)  0.0246(6) -0.3434(7)  1.000 4 a ? d Uani  0.0132(12)
+H3 H  0.0941 -0.0537 -0.2872  1.000 4 a ? calc Uiso  0.01600
+C4 C  0.2731(6)  0.7282(7) -0.0024(10)  1.000 4 a ? d Uani  0.0228(16)
+H4A H  0.2746  0.6829 -0.1006  1.000 4 a ? calc Uiso  0.03400
+H4B H  0.2638  0.8425 -0.0169  1.000 4 a ? calc Uiso  0.03400
+H4C H  0.2140  0.6826  0.0045  1.000 4 a ? calc Uiso  0.03400
+O6 O  0.0222(2)  0.3385(4)  0.0753(4)  1.000 4 a ? d Uani  0.0122(8)
+N1 N  0.3776(3)  0.6917(4)  0.1624(5)  1.000 4 a ? d Uani  0.0151(7)
+O5 O  0.4132(3)  0.3582(4)  0.2305(4)  1.000 4 a ? d Uani  0.0162(9)
+O4 O  0.1212(3)  0.0217(4)  0.0309(4)  1.000 4 a ? d Uani  0.0160(8)
+C5 C  0.3802(6)  0.7555(6)  0.3196(10)  1.000 4 a ? d Uani  0.0202(17)
+H5A H  0.4479  0.7277  0.4219  1.000 4 a ? calc Uiso  0.03000
+H5B H  0.3216  0.7101  0.3282  1.000 4 a ? calc Uiso  0.03000
+H5C H  0.3728  0.8703  0.3109  1.000 4 a ? calc Uiso  0.03000
+H12 H  0.435(4)  0.739(5)  0.144(7)  1.000 4 a ? d Uiso  0.022(13)
+H11 H  0.384(4)  0.597(5)  0.161(6)  1.000 4 a ? d Uiso  0.025(12)
+Mn1 Mn  0.0746(1)  0.2482(1) -0.1038(2)  1.000 4 a ? d Uani  0.00880(13)
+O3 O  0.1232(2)  0.1655(4) -0.2845(4)  1.000 4 a ? d Uani  0.0150(8)
+O2 O  0.0187(3)  0.4737(4) -0.2512(4)  1.000 4 a ? d Uani  0.0153(8)
+
+
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+O1  0.013(2)  0.007(2)  0.020(2) -0.0012(14)  0.0059(17)  0.0001(13)
+C1  0.0167(14)  0.0135(14)  0.0149(15) -0.005(4)  0.0102(12)  0.002(4)
+C2  0.012(2)  0.005(2)  0.020(3) -0.0034(17)  0.0087(19) -0.0018(19)
+C3  0.013(2)  0.013(3)  0.015(3) -0.0028(19)  0.009(2)  0.001(2)
+C4  0.022(3)  0.021(3)  0.024(3) -0.001(2)  0.010(3)  0.004(2)
+O6  0.0183(19)  0.0073(19)  0.015(2) -0.0025(14)  0.0116(15) -0.0030(14)
+N1  0.0180(16)  0.0051(15)  0.0248(19)  0.0012(13)  0.0127(14)  0.0002(14)
+O5  0.0123(19)  0.016(2)  0.019(2) -0.0009(14)  0.0067(16)  0.0017(15)
+O4  0.0234(18)  0.011(2)  0.018(2)  0.0051(15)  0.0133(15)  0.0038(14)
+C5  0.018(3)  0.022(3)  0.019(3) -0.0034(17)  0.008(2)  0.0033(18)
+Mn1  0.0106(2)  0.0052(2)  0.0119(2)  0.00016(16)  0.00665(17)  0.00036(17)
+O3  0.0174(19)  0.009(2)  0.020(2) -0.0017(15)  0.0106(17) -0.0030(16)
+O2  0.0219(18)  0.0094(19)  0.021(2)  0.0046(15)  0.0153(16)  0.0065(15)
+
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+_geom_bond_distance
+_geom_bond_publ_flag
+O1 C1 . .  1.254(8) no
+O1 Mn1 . .  2.184(4) no
+C1 O5 . .  1.246(8) no
+C1 H1 . .  0.9300 no
+C2 O6 . 2_564  1.253(6) no
+C2 O2 . .  1.251(6) no
+C2 H2 . .  0.9300 no
+C3 O4 . 2_554  1.252(6) no
+C3 O3 . .  1.260(6) no
+C3 H3 . .  0.9300 no
+C4 N1 . .  1.497(8) no
+C4 H4A . .  0.9600 no
+C4 H4B . .  0.9600 no
+C4 H4C . .  0.9600 no
+O6 C2 . 2_565  1.253(6) no
+O6 Mn1 . .  2.210(4) no
+N1 C5 . .  1.476(8) no
+N1 H12 . .  0.99(5) no
+N1 H11 . .  0.80(4) no
+O5 Mn1 . 4  2.198(4) no
+O4 C3 . 2  1.252(6) no
+O4 Mn1 . .  2.148(4) no
+C5 H5A . .  0.9600 no
+C5 H5B . .  0.9600 no
+C5 H5C . .  0.9600 no
+Mn1 O3 . .  2.162(4) no
+Mn1 O2 . .  2.193(4) no
+Mn1 O5 . 4_454  2.198(4) no
+O5 H11 . .  2.0598(417) no
+O6 H12 . 3_445  1.8444(671) no
+H11 O3 . 3_556  4.3696(410) no
+C2 N1 . 3_444  4.6712(62) no
+N1 O5 . .  2.8313(47) no
+N1 O5 . 2_564  4.1400(67) no
+O6 N1 . 3_445  2.8340(62) no
+
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_2
+_geom_angle_site_symmetry_3
+_geom_angle
+_geom_angle_publ_flag
+C1 O1 Mn1 . . . 128.5(3) no
+O5 C1 O1 . . . 125.1(3) no
+O5 C1 H1 . . . 117.40 no
+O1 C1 H1 . . . 117.40 no
+O6 C2 O2 2_564 . . 124.2(4) no
+O6 C2 H2 2_564 . . 117.90 no
+O2 C2 H2 . . . 117.90 no
+O4 C3 O3 2_554 . . 127.3(5) no
+O4 C3 H3 2_554 . . 116.40 no
+O3 C3 H3 . . . 116.40 no
+N1 C4 H4A . . . 109.50 no
+N1 C4 H4B . . . 109.50 no
+H4A C4 H4B . . . 109.50 no
+N1 C4 H4C . . . 109.50 no
+H4A C4 H4C . . . 109.50 no
+H4B C4 H4C . . . 109.50 no
+C2 O6 Mn1 2_565 . . 123.6(3) no
+C5 N1 C4 . . . 112.4(5) no
+C5 N1 H12 . . . 113.(3) no
+C4 N1 H12 . . . 105.(3) no
+C5 N1 H11 . . . 115.(4) no
+C4 N1 H11 . . . 104.(4) no
+H12 N1 H11 . . . 107.(4) no
+C1 O5 Mn1 . . 4 128.2(3) no
+C3 O4 Mn1 2 . . 128.5(3) no
+N1 C5 H5A . . . 109.50 no
+N1 C5 H5B . . . 109.50 no
+H5A C5 H5B . . . 109.50 no
+N1 C5 H5C . . . 109.50 no
+H5A C5 H5C . . . 109.50 no
+H5B C5 H5C . . . 109.50 no
+O4 Mn1 O3 . . . 90.46(13) no
+O4 Mn1 O1 . . . 93.80(14) no
+O3 Mn1 O1 . . . 90.46(14) no
+O4 Mn1 O2 . . . 176.95(18) no
+O3 Mn1 O2 . . . 89.29(15) no
+O1 Mn1 O2 . . . 89.24(13) no
+O4 Mn1 O5 . . 4_454 86.63(13) no
+O3 Mn1 O5 . . 4_454 90.24(14) no
+O1 Mn1 O5 . . 4_454 179.18(18) no
+O2 Mn1 O5 . . 4_454 90.33(14) no
+O4 Mn1 O6 . . . 91.19(14) no
+O3 Mn1 O6 . . . 178.28(17) no
+O1 Mn1 O6 . . . 89.92(14) no
+O2 Mn1 O6 . . . 89.04(13) no
+O5 Mn1 O6 4_454 . . 89.38(13) no
+C3 O3 Mn1 . . . 125.4(3) no
+C2 O2 Mn1 . . . 124.9(3) no
+
+
+data_Mn(CHOO)3NH2(CH3)2
+_chemical_formula_sum	'C5 H11 Mn N O6'
+_chemical_formula_weight	236.090
+_refine_ls_R_factor_all	0.035
+_cell_length_a	 8.3371(8)
+_cell_length_b	 8.3371(8)
+_cell_length_c	22.909(5)
+_cell_angle_alpha	90.000
+_cell_angle_beta	90.000
+_cell_angle_gamma	120.000
+_cell_volume	1379.0(4)
+_cell_formula_units_Z	6
+_symmetry_int_tables_number	167
+_symmetry_space_group_name_H-M	'R -3 c'
+_symmetry_space_group_name_Hall	'-R_3_2"c'
+
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 x-y,-y,1/2-z
+5 -x,-x+y,1/2-z
+6 y,x,1/2-z
+7 -x,-y,-z
+8 y,-x+y,-z
+9 x-y,x,-z
+10 -x+y,y,1/2+z
+11 x,x-y,1/2+z
+12 -y,-x,1/2+z
+13 2/3+x,1/3+y,1/3+z
+14 2/3-y,1/3+x-y,1/3+z
+15 2/3-x+y,1/3-x,1/3+z
+16 2/3+x-y,1/3-y,5/6-z
+17 2/3-x,1/3-x+y,5/6-z
+18 2/3+y,1/3+x,5/6-z
+19 2/3-x,1/3-y,1/3-z
+20 2/3+y,1/3-x+y,1/3-z
+21 2/3+x-y,1/3+x,1/3-z
+22 2/3-x+y,1/3+y,5/6+z
+23 2/3+x,1/3+x-y,5/6+z
+24 2/3-y,1/3-x,5/6+z
+25 1/3+x,2/3+y,2/3+z
+26 1/3-y,2/3+x-y,2/3+z
+27 1/3-x+y,2/3-x,2/3+z
+28 1/3+x-y,2/3-y,1.16667-z
+29 1/3-x,2/3-x+y,1.16667-z
+30 1/3+y,2/3+x,1.16667-z
+31 1/3-x,2/3-y,2/3-z
+32 1/3+y,2/3-x+y,2/3-z
+33 1/3+x-y,2/3+x,2/3-z
+34 1/3-x+y,2/3+y,1.16667+z
+35 1/3+x,2/3+x-y,1.16667+z
+36 1/3-y,2/3-x,1.16667+z
+
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+_atom_type_radius_bond
+C	?	1.200
+N	?	1.200
+H	?	1.200
+Mn	?	1.200
+O	?	1.200
+
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_attached_hydrogens
+_atom_site_calc_flag
+_atom_site_thermal_displace_type
+_atom_site_u_iso_or_equiv
+C1 C  0.2153(4)  0.8820(4)  0.0833  1.000 18 e ? d Uani  0.0303(7)
+C2 C  0.3333  0.6667 -0.0296(2)  1.000 12 c ? d Uani  0.0591(14)
+N1 N  0.4209(11)  0.6667 -0.0833  0.330 18 e ? d Uani  0.048(2)
+H1 H  0.103(5)  0.769(5)  0.0833  1.000 36 f ? d Uiso  0.037(9)
+Mn1 Mn  0.0000  1.0000  0.0000  1.000 6 b ? d Uani  0.0214(3)
+O1 O  0.2208(2)  1.0105(2)  0.0544(1)  1.000 36 f ? d Uani  0.0373(5)
+
+
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+C1  0.0275(11)  0.0275(11)  0.0355(18)  0.0133(12) -0.0010(6)  0.0010(6)
+C2  0.070(2)  0.070(2)  0.038(3)  0.0348(11)  0.00000  0.00000
+N1  0.030(3)  0.025(4)  0.086(7)  0.013(2) -0.004(2) -0.008(4)
+Mn1  0.0216(3)  0.0216(3)  0.0212(5)  0.01079(17)  0.00000  0.00000
+O1  0.0339(9)  0.0348(9)  0.0424(10)  0.0166(7) -0.0084(7)  0.0070(7)
+
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+_geom_bond_distance
+_geom_bond_publ_flag
+C1 O1 . .  1.241(2) no
+C1 H1 . .  0.94(4) no
+C2 N1 . 2_665  1.431(7) no
+C2 N1 . 3_565  1.431(7) no
+C2 N1 . .  1.431(7) no
+N1 N1 . 3_565  1.264(16) no
+N1 N1 . 2_665  1.264(16) no
+Mn1 O1 . .  2.1885(15) no
+Mn1 O1 . 7_575  2.1885(15) no
+Mn1 O1 . 8_455  2.1885(15) no
+Mn1 O1 . 2_675  2.1885(15) no
+Mn1 O1 . 9_665  2.1885(15) no
+Mn1 O1 . 3_465  2.1885(15) no
+
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_2
+_geom_angle_site_symmetry_3
+_geom_angle
+_geom_angle_publ_flag
+O1 C1 H1 . . . 116.75(15) no
+N1 C2 N1 2_665 . 3_565 52.4(6) no
+N1 C2 N1 2_665 . . 52.4(6) no
+N1 C2 N1 3_565 . . 52.4(6) no
+N1 N1 N1 3_565 . 2_665 60.0() no
+N1 N1 C2 3_565 . . 63.8(3) no
+N1 N1 C2 2_665 . . 63.8(3) no
+O1 Mn1 O1 . . 7_575 180.00 no
+O1 Mn1 O1 . . 8_455 89.25(6) no
+O1 Mn1 O1 7_575 . 8_455 90.75(6) no
+O1 Mn1 O1 . . 2_675 90.75(6) no
+O1 Mn1 O1 7_575 . 2_675 89.25(6) no
+O1 Mn1 O1 8_455 . 2_675 180.00(7) no
+O1 Mn1 O1 . . 9_665 89.25(6) no
+O1 Mn1 O1 7_575 . 9_665 90.75(6) no
+O1 Mn1 O1 8_455 . 9_665 90.75(6) no
+O1 Mn1 O1 2_675 . 9_665 89.25(6) no
+O1 Mn1 O1 . . 3_465 90.75(6) no
+O1 Mn1 O1 7_575 . 3_465 89.25(6) no
+O1 Mn1 O1 8_455 . 3_465 89.25(6) no
+O1 Mn1 O1 2_675 . 3_465 90.75(6) no
+O1 Mn1 O1 9_665 . 3_465 180.00 no
+C1 O1 Mn1 . . . 127.05(17) no
+O1 C1 O1 . . 30_454 126.49(11) no
+
+loop_
+_geom_torsion_atom_site_label_1
+_geom_torsion_atom_site_label_2
+_geom_torsion_atom_site_label_3
+_geom_torsion_atom_site_label_4
+_geom_torsion_site_symmetry_1
+_geom_torsion_site_symmetry_2
+_geom_torsion_site_symmetry_3
+_geom_torsion_site_symmetry_4
+_geom_torsion
+_geom_torsion_publ_flag
+N1 C2 N1 N1 2_665 . . 3_565 -67.74(18) no
+N1 C2 N1 N1 3_565 . . 2_665 67.74(18) no
+O1 Mn1 O1 C1 7_575 . . . -108.(18) no
+O1 Mn1 O1 C1 8_455 . . . -61.49(10) no
+O1 Mn1 O1 C1 2_675 . . . 118.51(10) no
+O1 Mn1 O1 C1 9_665 . . . -152.25(16) no
+O1 Mn1 O1 C1 3_465 . . . 27.75(16) no
+
