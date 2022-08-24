@@ -1,0 +1,60 @@
+# CIF file created by FINDSYM, version 7.1.3
+
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_cell_length_a    12.5319500000
+_cell_length_b    12.5319500000
+_cell_length_c    8.2522000000
+_cell_angle_alpha 90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma 120.0000000000
+_cell_volume      1122.3742221819
+
+_symmetry_space_group_name_H-M "P 63"
+_symmetry_Int_Tables_number 173
+_space_group.reference_setting '173:P 6c'
+_space_group.transform_Pp_abc a,b,c;0,0,0
+
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x-y,x,z+1/2
+3 -y,x-y,z
+4 -x,-y,z+1/2
+5 -x+y,-x,z
+6 y,-x+y,z+1/2
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_fract_symmform
+Ni1 Ni   6 c 0.33487 0.33179 0.58660 1.00000 Dx,Dy,Dz 
+O1  O    6 c 0.42455 0.26294 0.44372 1.00000 Dx,Dy,Dz 
+O2  O    6 c 0.42673 0.15327 0.23139 1.00000 Dx,Dy,Dz 
+O3  O    6 c 0.40104 0.49074 0.44327 1.00000 Dx,Dy,Dz 
+O4  O    6 c 0.50641 0.60392 0.22935 1.00000 Dx,Dy,Dz 
+O5  O    6 c 0.17598 0.23788 0.44521 1.00000 Dx,Dy,Dz 
+O6  O    6 c 0.06993 0.24306 0.23043 1.00000 Dx,Dy,Dz 
+C1  C    6 c 0.37009 0.18299 0.33239 1.00000 Dx,Dy,Dz 
+C2  C    6 c 0.47486 0.51386 0.32454 1.00000 Dx,Dy,Dz 
+C3  C    6 c 0.14520 0.29544 0.34716 1.00000 Dx,Dy,Dz 
+H1  H    6 c 0.26899 0.13888 0.32550 1.00000 Dx,Dy,Dz 
+H2  H    6 c 0.51293 0.45230 0.30592 1.00000 Dx,Dy,Dz 
+H3  H    6 c 0.18457 0.39564 0.36109 1.00000 Dx,Dy,Dz 
+H4  H    6 c 0.57737 0.30747 0.49908 1.00000 Dx,Dy,Dz 
+H5  H    2 b 0.33333 0.66667 0.16245 1.00000 0,0,Dz   
+H6  H    6 c 0.35849 0.60258 0.49883 1.00000 Dx,Dy,Dz 
+H7  H    2 b 0.33333 0.66667 0.66221 1.00000 0,0,Dz   
+H8  H    6 c 0.02635 0.08949 0.17404 1.00000 Dx,Dy,Dz 
+H9  H    2 a 0.00000 0.00000 0.01072 1.00000 0,0,Dz   
+N1  N    2 b 0.33333 0.66667 0.03865 1.00000 0,0,Dz   
+N2  N    2 b 0.33333 0.66667 0.53834 1.00000 0,0,Dz   
+N3  N    2 a 0.00000 0.00000 0.13454 1.00000 0,0,Dz   
