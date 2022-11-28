@@ -1,1 +1,4 @@
-
+These structures were generated via distortion of framework and rotation of molecules as the original structure (x, y, z) evolve to a structure of different symmetry.
+The new symmetry (y, x, -z) was motivated by wyckoff's symmtries of the high temperature phase of the material. The direction of polarization is along z for these
+compounds
+We have used the rotodistortion code to generate the intermediate structures.
