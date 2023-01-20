@@ -1,0 +1,114 @@
+ +---------------------------------------------------------------+
+ |         VASPKIT Standard Edition 1.3.3 (24 Feb. 2022)         |
+ |            Running VASPKIT Under Command-Line Mode            |
+ +---------------------------------------------------------------+
+  -->> (01) Reading Elastic-Tensor From OUTCAR File...
+ +-------------------------- Summary ----------------------------+
+  -->> (02) Reading Structural Parameters from POSCAR File...
+ Crystal Class: m
+ Space Group: Pc
+ Crystal System: Monoclinic                
+ Including Point group classes: m, 2, 2/m   
+ There are 13 independent elastic constants
+    C11  C12  C13    0  C15    0   
+    C12  C22  C23    0  C25    0   
+    C13  C23  C33    0  C35    0   
+      0    0    0  C44    0  C46   
+    C15  C25  C35    0  C55    0   
+      0    0    0  C46    0  C66   
+ 
+ Stiffness Tensor C_ij (in GPa):
+     29.674     19.733     14.344      0.000      0.000      0.000
+     19.733     63.561     17.363      0.000      0.000      0.000
+     14.344     17.363     52.771      0.000      0.000      0.000
+      0.000      0.000      0.000      9.383      0.000      0.000
+      0.000      0.000      0.000      0.000     10.611      0.000
+      0.000      0.000      0.000      0.000      0.000      8.923
+ 
+ Compliance Tensor S_ij (in GPa^{-1}):
+   0.045707  -0.011863  -0.008520   0.000000   0.000000   0.000000
+  -0.011863   0.020365  -0.003476   0.000000   0.000000   0.000000
+  -0.008520  -0.003476   0.022410   0.000000   0.000000   0.000000
+   0.000000   0.000000   0.000000   0.106575   0.000000   0.000000
+   0.000000   0.000000   0.000000   0.000000   0.094239   0.000000
+   0.000000   0.000000   0.000000   0.000000   0.000000   0.112070
+ 
+ Anisotropic mechanical properties of bulk singlecrystal:
+ +---------------------------------------------------------------+
+ |   Mechanical Properties   |    Min    |    Max    | Anisotropy|
+ +---------------------------------------------------------------+
+ |  Bulk Modulus B (GPa)     |   13.163  |   66.319  |    5.038  |
+ |  Young's Modulus E (GPa)  |   21.878  |   49.103  |    2.244  |
+ |  Shear Modulus G (GPa)    |    8.923  |   20.110  |    2.254  |
+ |  Poisson's Ratio v        |    0.153  |    0.583  |    3.813  |
+ |  Linear compressibility   |    5.026  |   25.324  |    5.038  |
+ +---------------------------------------------------------------+
+ Linear compressibility beta is in unit of TPa^-1
+ References:
+ [1] Marmier A, Comput. Phys. Commun. 181, 2102–2115 (2010) 
+ [2] Gaillac R, J. Phys. Condens. Matter 28, 275201 (2016) 
+ 
+ Average mechanical properties of bulk polycrystal:
+ +---------------------------------------------------------------+
+ |   Mechanical Properties   |   Voigt   |   Reuss   |    Hill   |
+ +---------------------------------------------------------------+
+ |  Bulk Modulus B (GPa)     |    27.65  |   24.532  |   26.093  |
+ |  Young's Modulus E (GPa)  |    31.65  |   28.269  |   29.961  |
+ |  Shear Modulus G (GPa)    |    12.09  |   10.807  |   11.447  |
+ |  Poisson's Ratio v        |     0.31  |    0.308  |    0.309  |
+ |  P-wave Modulus (GPa)     |    43.77  |   38.941  |   41.356  |
+ |  Pugh's Ratio (B/G)       |     2.29  |    2.270  |    2.279  |
+ | Vickers Hardness (GPa)[6] |     0.26  |    0.080  |    0.170  |
+ | Vickers Hardness (GPa)[7] |     2.10  |    1.954  |    2.025  |
+ +---------------------------------------------------------------+
+ Pugh's Ratio (B/G):   2.28        --> Ductile region (> 1.75)
+ Cauchy Pressure Pc (GPa):    10.4 --> Covalent-like bonding (< 0)
+ Kleinman’s parameter:   1.11      --> Bond Streching dominated (> 0.5)
+ Universal Elastic Anisotropy:   0.72
+ Chung-Buessem Anisotropy:     0.1
+ Isotropic Poisson's Ratio:   0.31
+ Longitudinal wave velocity (m/s):   4572.195
+ Transverse wave velocity (m/s):   2405.507
+ Average wave velocity (m/s):   2689.855
+ Debye temperature (K):   378.9
+ References:
+ [1] Voigt W, Lehrbuch der Kristallphysik (1928)
+ [2] Reuss A, Z. Angew. Math. Mech. 9 49-58 (1929)
+ [3] Hill R, Proc. Phys. Soc. A 65 349-54 (1952)
+ [4] Debye temperature J. Phys. Chem. Solids 24, 909-917 (1963)
+ [5] Elastic wave velocities calculated using Navier's equation
+ [6] Chen X-Q, Intermetallics 19, 1275 (2011)
+ [7] Tian Y-J, Int. J. Refract. Hard Met. 33, 93–106 (2012)
+ 
+ Eigenvalues of the stiffness matrix (in GPa):
+ Eigenvalue lamda_1 =     8.923 > 0 meeted.
+ Eigenvalue lamda_2 =     9.383 > 0 meeted.
+ Eigenvalue lamda_3 =    10.611 > 0 meeted.
+ Eigenvalue lamda_4 =    19.250 > 0 meeted.
+ Eigenvalue lamda_5 =    39.985 > 0 meeted.
+ Eigenvalue lamda_6 =    86.771 > 0 meeted.
+ 
+ Elastic stability criteria as seen in PRB 90, 224104 (2014).
+ Criteria (1) C11 > 0 meeted.
+ Criteria (2) C22 > 0 meeted.
+ Criteria (3) C33 > 0 meeted.
+ Criteria (4) C44 > 0 meeted.
+ Criteria (5) C55 > 0 meeted.
+ Criteria (6) C66 > 0 meeted.
+ Criteria (vii) [C11 + C22 + C33 + 2*(C12 + C13 + C23)] > 0 meeted.
+ Criteria (viii) C33*C55 - C35^2 > 0 meeted.
+ Criteria (ix) C44*C66 - C46^2 > 0 meeted.
+ Criteria (x) C22 + C33 - 2*C23  > 0 meeted.
+ Criteria (xi) C22*(C33*C55 - C35^2) + 2*C23*C25*C35 - (C23^2)*C55 - (C25^2)*C33 > 0 meeted.
+ Criteria (xii) 2*[C15*C25*(C33*C12 - C13*C23) + C15*C35*(C22*C13 - C12*C23) + C25*C35*(C11*C23 - C12*C13)] - [C15*C15*(C22*C33 - C23^2) + C25*C25*(C11*C33 - C13^2) + C35*C35*(C11*C22 - C12^2)] + C55*g > 0 meeted.
+ This Structure is Mechanically Stable.
+ +---------------------------------------------------------------+
+  -->> (03) Written ELASTIC_TENSOR File!
+ +---------------------------------------------------------------+
+ |                          * CITATIONS *                        |
+ | When using VASPKIT in your research PLEASE cite the paper:    |
+ | [1] V. WANG, N. XU, J.-C. LIU, G. TANG, W.-T. GENG, VASPKIT: A|
+ | User-Friendly Interface Facilitating High-Throughput Computing|
+ | and Analysis Using VASP Code, Computer Physics Communications |
+ | 267, 108033, (2021), DOI: 10.1016/j.cpc.2021.108033           |
+ +---------------------------------------------------------------+
