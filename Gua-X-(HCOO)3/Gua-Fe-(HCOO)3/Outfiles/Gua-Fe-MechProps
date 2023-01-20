@@ -1,0 +1,108 @@
+ +---------------------------------------------------------------+
+ |         VASPKIT Standard Edition 1.3.3 (24 Feb. 2022)         |
+ |            Running VASPKIT Under Command-Line Mode            |
+ +---------------------------------------------------------------+
+  -->> (01) Reading Elastic-Tensor From OUTCAR File...
+ +-------------------------- Summary ----------------------------+
+  -->> (02) Reading Structural Parameters from POSCAR File...
+ Crystal Class: mmm
+ Space Group: Pnna
+ Crystal System: Orthorhombic                     
+ Including Point group classes: 222, mm2, 2/m2/m2/m
+ There are 9 independent elastic constants       
+    C11  C12  C13    0    0    0         
+    C12  C22  C23    0    0    0         
+    C13  C23  C33    0    0    0         
+      0    0    0  C44    0    0         
+      0    0    0    0  C55    0         
+      0    0    0    0    0  C66         
+ 
+ Stiffness Tensor C_ij (in GPa):
+     34.564     11.173     26.539      0.000      0.000      0.000
+     11.173     46.922     15.255      0.000      0.000      0.000
+     26.539     15.255     80.031      0.000      0.000      0.000
+      0.000      0.000      0.000      9.255      0.000      0.000
+      0.000      0.000      0.000      0.000     11.563      0.000
+      0.000      0.000      0.000      0.000      0.000      6.378
+ 
+ Compliance Tensor S_ij (in GPa^{-1}):
+   0.040138  -0.005576  -0.012247   0.000000   0.000000   0.000000
+  -0.005576   0.023495  -0.002630   0.000000   0.000000   0.000000
+  -0.012247  -0.002630   0.017058   0.000000   0.000000   0.000000
+   0.000000   0.000000   0.000000   0.108046   0.000000   0.000000
+   0.000000   0.000000   0.000000   0.000000   0.086480   0.000000
+   0.000000   0.000000   0.000000   0.000000   0.000000   0.156779
+ 
+ Anisotropic mechanical properties of bulk singlecrystal:
+ +---------------------------------------------------------------+
+ |   Mechanical Properties   |    Min    |    Max    | Anisotropy|
+ +---------------------------------------------------------------+
+ |  Bulk Modulus B (GPa)     |   14.938  |  152.844  |   10.232  |
+ |  Young's Modulus E (GPa)  |   18.811  |   58.624  |    3.116  |
+ |  Shear Modulus G (GPa)    |    6.378  |   21.829  |    3.422  |
+ |  Poisson's Ratio v        |    0.110  |    0.718  |    6.521  |
+ |  Linear compressibility   |    2.181  |   22.315  |   10.232  |
+ +---------------------------------------------------------------+
+ Linear compressibility beta is in unit of TPa^-1
+ References:
+ [1] Marmier A, Comput. Phys. Commun. 181, 2102–2115 (2010) 
+ [2] Gaillac R, J. Phys. Condens. Matter 28, 275201 (2016) 
+ 
+ Average mechanical properties of bulk polycrystal:
+ +---------------------------------------------------------------+
+ |   Mechanical Properties   |   Voigt   |   Reuss   |    Hill   |
+ +---------------------------------------------------------------+
+ |  Bulk Modulus B (GPa)     |    29.72  |   25.135  |   27.426  |
+ |  Young's Modulus E (GPa)  |    33.29  |   27.151  |   30.224  |
+ |  Shear Modulus G (GPa)    |    12.68  |   10.285  |   11.480  |
+ |  Poisson's Ratio v        |     0.31  |    0.320  |    0.316  |
+ |  P-wave Modulus (GPa)     |    46.62  |   38.848  |   42.733  |
+ |  Pugh's Ratio (B/G)       |     2.34  |    2.444  |    2.389  |
+ | Vickers Hardness (GPa)[6] |     0.26  |   -0.254  |    0.006  |
+ | Vickers Hardness (GPa)[7] |     2.11  |    1.734  |    1.924  |
+ +---------------------------------------------------------------+
+ Pugh's Ratio (B/G):   2.39        --> Ductile region (> 1.75)
+ Cauchy Pressure Pc (GPa):     1.9 --> Covalent-like bonding (< 0)
+ Kleinman’s parameter:   0.56      --> Bond Streching dominated (> 0.5)
+ Universal Elastic Anisotropy:   1.34
+ Chung-Buessem Anisotropy:     0.1
+ Isotropic Poisson's Ratio:   0.32
+ Longitudinal wave velocity (m/s):   4779.188
+ Transverse wave velocity (m/s):   2477.135
+ Average wave velocity (m/s):   2772.702
+ Debye temperature (K):   387.3
+ References:
+ [1] Voigt W, Lehrbuch der Kristallphysik (1928)
+ [2] Reuss A, Z. Angew. Math. Mech. 9 49-58 (1929)
+ [3] Hill R, Proc. Phys. Soc. A 65 349-54 (1952)
+ [4] Debye temperature J. Phys. Chem. Solids 24, 909-917 (1963)
+ [5] Elastic wave velocities calculated using Navier's equation
+ [6] Chen X-Q, Intermetallics 19, 1275 (2011)
+ [7] Tian Y-J, Int. J. Refract. Hard Met. 33, 93–106 (2012)
+ 
+ Eigenvalues of the stiffness matrix (in GPa):
+ Eigenvalue lamda_1 =     6.378 > 0 meeted.
+ Eigenvalue lamda_2 =     9.255 > 0 meeted.
+ Eigenvalue lamda_3 =    11.563 > 0 meeted.
+ Eigenvalue lamda_4 =    21.655 > 0 meeted.
+ Eigenvalue lamda_5 =    40.987 > 0 meeted.
+ Eigenvalue lamda_6 =    98.874 > 0 meeted.
+ 
+ Elastic stability criteria as seen in PRB 90, 224104 (2014).
+ Criteria (i) C11 > 0 is meeted.
+ Criteria (ii) C11*C22 > C12^2 meeted.
+ Criteria (iii) C11*C22*C33 + 2C12*C13*C23 - C11*C23^2 - C22*C13^2 - C33*C12^2 > 0 meeted.
+ Criteria (iv) C44 > 0 meeted.
+ Criteria (iv)  C55 > 0 meeted.
+ Criteria (iv) C66 > 0 meeted.
+ This Structure is Mechanically Stable.
+ +---------------------------------------------------------------+
+  -->> (03) Written ELASTIC_TENSOR File!
+ +---------------------------------------------------------------+
+ |                          * CITATIONS *                        |
+ | When using VASPKIT in your research PLEASE cite the paper:    |
+ | [1] V. WANG, N. XU, J.-C. LIU, G. TANG, W.-T. GENG, VASPKIT: A|
+ | User-Friendly Interface Facilitating High-Throughput Computing|
+ | and Analysis Using VASP Code, Computer Physics Communications |
+ | 267, 108033, (2021), DOI: 10.1016/j.cpc.2021.108033           |
+ +---------------------------------------------------------------+
